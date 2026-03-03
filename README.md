@@ -14,7 +14,7 @@ This repository provides the software framework used in the Autonomous Mobile Ro
 ## Step 2 - Preparing the Environment 
 
 > [!IMPORTANT] 
->### [Install Graphics card/Nvidia] (https://github.com/vivaldini/robotics-and-ros-tutorials/tree/main/Tools-Tutorials/Nvidia)
+>### [Install Graphics card/Nvidia](https://github.com/vivaldini/robotics-and-ros-tutorials/tree/main/Tools-Tutorials/Nvidia)
 
 ## Step 3 - VS Code
 
