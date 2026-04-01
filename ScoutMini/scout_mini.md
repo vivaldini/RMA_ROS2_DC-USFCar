@@ -10,4 +10,5 @@ This lecture introduces the Scout Mini, a 4-wheel skid-steering mobile robot. St
 All instructions for setting up the ROS 2 workspace, cloning the Scout Mini packages, installing dependencies, and building the project are provided in Professor Kelen's official repository.
 
 Please follow the step-by-step installation guide available here:
+
 🔗 **https://github.com/vivaldini/scout_ws/**
